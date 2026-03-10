@@ -23,6 +23,6 @@
 
 ## Артефакты проекта
 * [Интерактивный дашборд и расчеты в Google Sheets](https://docs.google.com/spreadsheets/d/1L7iHtDMk0FrICULkhd8Yf18kOBW1hPNNO0cK_wkg1RM/edit?usp=sharing) *(Для взаимодействия с фильтрами, пожалуйста, создайте копию документа)*
-* [Презентация проекта (PDF)](ТВОЯ_ССЫЛКА_НА_PDF_В_GITHUB)
+* [Презентация проекта (PDF)](https://github.com/novokhatskiynik/CASE-retail-data-analysis/blob/main/presentation.pdf)
 * [Видео с защитой проекта](https://docs.google.com/videos/d/1tUdvLfp5H1M-rUzMZU7qA-2DrdIdZP44WMa1s9efoVA/edit?usp=sharing)
 
